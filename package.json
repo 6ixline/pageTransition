@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/Devsourabh/pageTransition/issues"
   },
-  "homepage": "https://github.com/Devsourabh/pageTransition#readme"
+  "homepage": "https://github.com/Devsourabh/pageTransition#readme",
+  "devDependencies": {
+    "sass": "^1.22.9"
+  },
+  "dependencies": {
+    "@dogstudio/highway": "^2.1.3",
+    "gsap": "^2.1.3",
+    "js": "^0.1.0"
+  }
 }
